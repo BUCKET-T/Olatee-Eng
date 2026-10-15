@@ -90,7 +90,7 @@ export default function AboutSection() {
             Pioneering Safe, Smart & Sustainable Energy
           </h1>
           <p className="mt-4 text-base sm:text-lg text-slate-400 leading-relaxed">
-            From our humble university beginnings to executing complex power and solar infrastructure, OlateeEng delivers uncompromised engineering quality across Nigeria.
+            From our humble university beginnings to executing complex power and solar infrastructure, Olatee'sEng delivers uncompromised engineering quality across Nigeria.
           </p>
         </motion.div>
 
@@ -119,7 +119,7 @@ export default function AboutSection() {
 
             <div className="lg:col-span-8 text-slate-300 text-sm sm:text-base leading-relaxed space-y-4">
               <p>
-                OlateeEng was born in the bustling corridors of a university engineering faculty. What started as late-night laboratory experiments and fixing complex electrical faults around campus dorms quickly evolved into a passionate mission to solve real-world power challenges.
+                Olatee'sEng was born in the bustling corridors of a university engineering faculty. What started as late-night laboratory experiments and fixing complex electrical faults around campus dorms quickly evolved into a passionate mission to solve real-world power challenges.
               </p>
               <p>
                 During his final year as an Electrical Engineering student, our founder recognized a critical gap between academic electrical theory and the unsafe, substandard electrical wiring commonly seen on field sites. Determined to raise the bar, he assembled a small team of top classmates to offer certified, safety-first wiring and custom hybrid solar prototypes.
@@ -244,7 +244,7 @@ export default function AboutSection() {
               <div className="md:col-span-5 h-80 md:h-full relative overflow-hidden bg-slate-950">
                 <img
                   src={founderPhoto}
-                  alt="Engr. Olaofe Taiwo — Founder & Lead Engineer"
+                  alt="Engr. Olaofeoguntunde Taiwo — Founder & Lead Engineer"
                   className="w-full h-full object-cover object-center transition-transform duration-700 hover:scale-105"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent md:hidden" />
@@ -255,10 +255,10 @@ export default function AboutSection() {
                 <div>
                   <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-brand-orange/10 text-brand-orange border border-brand-orange/20 mb-3">
                     <ShieldAlert className="w-3.5 h-3.5" />
-                    COREN Registered • NEMSA Certified
+                    B Eng Electrical •
                   </div>
                   <h3 className="text-2xl sm:text-3xl font-extrabold text-white">
-                    Engr. Olaofe Taiwo
+                    Engr. Olaofeoguntunde Taiwo
                   </h3>
                   <p className="text-sm font-semibold text-brand-orange mt-1">
                     Founder & Principal Electrical Engineer

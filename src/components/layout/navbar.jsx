@@ -44,7 +44,7 @@ export default function Navbar() {
                 className="h-9 sm:h-10 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
               />
               <span className="text-xl sm:text-2xl font-bold tracking-tight text-white">
-                Olatee<span className="text-brand-orange">Eng</span>
+                Olatee's<span className="text-brand-orange">Eng</span>
               </span>
             </Link>
           </div>

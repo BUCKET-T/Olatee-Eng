@@ -3,7 +3,8 @@ import ValueProps from './ValueProps';
 import StatsCounter from './StatsCounter';
 
 import img1 from '../../../assets/images/wiring.png';
-import img2 from '../../../assets/images/inventory.png'; 
+import img2 from '../../../assets/images/work.jpeg'; 
+import img3 from '../../../assets/images/logoo.jpeg'
 
 export default function WhyChooseUsSection() {
   const [isVisible, setIsVisible] = useState(false);
@@ -11,7 +12,7 @@ export default function WhyChooseUsSection() {
   const [isShuffling, setIsShuffling] = useState(false);
   const sectionRef = useRef(null);
 
-  const images = [img1, img2];
+  const images = [img1, img2, img3];
 
   // Cycles front/back image index with a timed shuffle animation
   const handleNextImage = () => {

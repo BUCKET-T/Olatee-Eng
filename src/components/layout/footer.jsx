@@ -66,7 +66,7 @@ export default function Footer() {
                 className="h-9 sm:h-10 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
               />
               <span className="text-xl sm:text-2xl font-bold tracking-tight text-white">
-                Olatee<span className="text-brand-orange">Eng</span>
+                Olatee's<span className="text-brand-orange">Eng</span>
               </span>
             </a>
             <p className="text-sm leading-relaxed text-slate-400 max-w-xs">
@@ -135,7 +135,7 @@ export default function Footer() {
         {/* Divider & Copyright Bar */}
         <div className="pt-8 border-t border-white/10 text-center">
           <p className="text-sm text-slate-400">
-            © {new Date().getFullYear()} Olatee Engineering. All rights reserved.
+            © {new Date().getFullYear()} Olatee's Engineering. All rights reserved.
           </p>
         </div>
 
